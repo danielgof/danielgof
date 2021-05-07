@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielgof
 - 👀 I’m interested in programming and Data Science
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Web Development, Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gofmandon@gmail.com
 
