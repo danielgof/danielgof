@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and Data Science
 - 🌱 I’m currently learning Web Development, Data Science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me gofmandon@gmail.com
+- 📫 How to reach me: gofmandon@gmail.com
 
 <!---
 danielgof/danielgof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
