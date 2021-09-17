@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielgof
-- 👀 I’m interested in programming and Data Science, Syber Security
-- 🌱 I’m currently learning Web Development, Data Science, Syber Security
+- 👀 I’m interested in programming and Data Science
+- 🌱 I’m currently learning Web Development, Data Science
 - 📫 How to reach me: gofmandon@gmail.com
 
 <!---
