@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @danielgof
-- 👀 I’m interested in programming and Data Science
-- 🌱 I’m currently learning Web Development, Data Science
-- 📫 How to reach me: gofmandon@gmail.com
+- The student of MEPHI
+-email: gofmandon@gmail.com
 
 <!---
 danielgof/danielgof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
