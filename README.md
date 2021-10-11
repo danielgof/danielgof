@@ -1,4 +1,3 @@
-- The student of MEPHI
 - email: gofmandon@gmail.com
 
 <!---
