@@ -1,5 +1,4 @@
 - email: gofmandon@gmail.com
-- LinkedIn: https://www.linkedin.com/in/daniil-gofman-647768191/
 - Portfolio: https://portfolio-danielgof.vercel.app/
 
 <!---
