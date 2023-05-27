@@ -1,4 +1,3 @@
-- email: gofmandon@gmail.com
 - Portfolio: https://portfolio-19499.web.app/#/
 - LinkedIn: https://www.linkedin.com/in/dangofman/
 
